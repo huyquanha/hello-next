@@ -1,4 +1,6 @@
 {
   "version": 2,
-  "builds": [{"src": "package.json", "use": "@now/next"}]
+  "builds": [{"src": "package.json", "use": "@now/next"}],
+  "alias": "aliased-hello-next",
+  "name": "hello-next-kevin"
 }
